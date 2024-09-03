@@ -1,6 +1,6 @@
 I am a committed professional with a solid background in computer science and a strong enthusiasm for software development and technology.
 
-I possess skills in programming languages such as Java and Python, along with practical experience in web technologies including HTML, CSS, JavaScript, and React.js. I am skilled at developing efficient and user-friendly applications.
+I possess skills in programming languages such as Java and Python, along with practical experience in web technologies including HTML, CSS, JavaScript, and React.js.I am skilled at developing efficient and user-friendly applications.I also have variety of knowledge and skills in Data Analysis field with tools like SQL, Power BI, Google sheets , MS-Excel, Tableau and R Programming too which helps me to make data-driven decisions. 
 
 A quick learner, I excel in dynamic, collaborative settings and am keen to apply my skills to impactful projects. I am actively seeking roles in software development, web development, and data analytics to utilize my expertise and advance professionally.
 
