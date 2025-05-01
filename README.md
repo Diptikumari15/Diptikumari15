@@ -1,10 +1,10 @@
-I am a committed professional with a solid background in computer science and a strong enthusiasm for software development and technology.
+Passionate about cloud computing & DevOps , I have hands-on experience with AWS, Azure, Linux, networking , Terraform , Docker and shell scripting, focusing on building secure and scalable cloud solutions. My expertise includes cloud infrastructure, automation, and deployment to enhance performance and reliability.
 
-I possess skills in programming languages such as Java and Python, along with practical experience in web technologies including HTML, CSS, JavaScript, and React.js.I am skilled at developing efficient and user-friendly applications.I also have variety of knowledge and skills in Data Analysis field with tools like SQL, Power BI, Google sheets , MS-Excel, Tableau and R Programming too which helps me to make data-driven decisions. 
+Additionally, I have experience in Python, and web technologies, along with knowledge of SQL, Power BI, and spreadsheet enabling me to work with data-driven insights.
 
-A quick learner, I excel in dynamic, collaborative settings and am keen to apply my skills to impactful projects. I am actively seeking roles in software development, web development, and data analytics to utilize my expertise and advance professionally.
+I am actively seeking opportunities in cloud or DevOps engineering, with a keen interest in leveraging software development and analytics to drive impactful solutions. Let’s connect!
 
-My core competencies include effective communication, adaptability, teamwork, attention to detail, and problem-solving, which empower me to address complex data challenges efficiently.
+Let’s connect to discuss how I can contribute to your organization's success with data-driven solutions.
 <!---
 Diptikumari15/Diptikumari15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
